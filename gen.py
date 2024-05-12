@@ -42,4 +42,4 @@ if __name__ == "__main__":
         print(create(
             model_name="facebook/musicgen-medium",
             duration=60,
-            prompt=["this is halloween"]))
+            prompt=["halloween, metal, synth-wave, 80s, 180bpm"]))
